@@ -1,0 +1,20 @@
+{
+  "phase": "phase-1",
+  "mode": "exact_url_match",
+  "allow_domain_only": false,
+  "allow_subpaths": false,
+  "allow_query_variants": false,
+  "allow_redirect_to_unlisted_url": false,
+  "approved_urls": [
+    "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+    "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
+  ],
+  "rejection_policy": {
+    "on_unlisted_url": "reject_request",
+    "on_redirect_mismatch": "reject_request",
+    "on_non_http_scheme": "reject_request"
+  }
+}

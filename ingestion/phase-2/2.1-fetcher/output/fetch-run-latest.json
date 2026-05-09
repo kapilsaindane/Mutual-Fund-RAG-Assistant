@@ -1,0 +1,70 @@
+{
+  "phase": "2.1",
+  "run_id": "fetch-run-20260505-230851",
+  "started_at": "2026-05-05T17:38:50.169332+00:00",
+  "completed_at": "2026-05-05T17:38:51.797367+00:00",
+  "allowlist_mode": "exact_url_match",
+  "input_source": "docs/phases/phase-2/phase-2.1-input-urls.json",
+  "results": [
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "fetch_status": "success",
+      "http_status_code": 200,
+      "fetched_at": "2026-05-05T17:38:50.172818+00:00",
+      "response_fingerprint": "df0c22112b599598ff195764fcf67d0ecb75554ca3e0a3bf71c724964bc12880",
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 411195,
+      "error_message": null,
+      "raw_snapshot_path": "ingestion/phase-2/2.1-fetcher/output/raw/groww.in_mutual-funds_hdfc-mid-cap-fund-direct-growth_26c6518ff8f9.html"
+    },
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+      "fetch_status": "success",
+      "http_status_code": 200,
+      "fetched_at": "2026-05-05T17:38:50.486970+00:00",
+      "response_fingerprint": "0e476b38fca64617982b0cf0a0f080c765df8ad5b9c8cf272c5bf0e0aac60a77",
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 395093,
+      "error_message": null,
+      "raw_snapshot_path": "ingestion/phase-2/2.1-fetcher/output/raw/groww.in_mutual-funds_hdfc-equity-fund-direct-growth_2582725fc091.html"
+    },
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+      "fetch_status": "success",
+      "http_status_code": 200,
+      "fetched_at": "2026-05-05T17:38:50.717562+00:00",
+      "response_fingerprint": "b5db56921043add898480a302cb229e924cad740dfc78e9f61ef6a45b5bfe27d",
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 360672,
+      "error_message": null,
+      "raw_snapshot_path": "ingestion/phase-2/2.1-fetcher/output/raw/groww.in_mutual-funds_hdfc-focused-fund-direct-growth_8273f9c8d9b8.html"
+    },
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "fetch_status": "success",
+      "http_status_code": 200,
+      "fetched_at": "2026-05-05T17:38:51.092831+00:00",
+      "response_fingerprint": "7b791d49593931ee26effd0d0028890c4a8e0edc96acf55cad44ca07af0d0b9b",
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 389170,
+      "error_message": null,
+      "raw_snapshot_path": "ingestion/phase-2/2.1-fetcher/output/raw/groww.in_mutual-funds_hdfc-elss-tax-saver-fund-direct-plan-growth_b5ddfac419d1.html"
+    },
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "fetch_status": "success",
+      "http_status_code": 200,
+      "fetched_at": "2026-05-05T17:38:51.417171+00:00",
+      "response_fingerprint": "240319147bd0f41f7010a45e0ebeff968a55e42a33095f6a589d0ff8e9d403b5",
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 376621,
+      "error_message": null,
+      "raw_snapshot_path": "ingestion/phase-2/2.1-fetcher/output/raw/groww.in_mutual-funds_hdfc-large-cap-fund-direct-growth_eb012e88a1ea.html"
+    }
+  ],
+  "summary": {
+    "total_urls": 5,
+    "success_count": 5,
+    "failure_count": 0
+  }
+}

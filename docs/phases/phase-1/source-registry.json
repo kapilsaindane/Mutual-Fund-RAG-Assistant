@@ -1,0 +1,48 @@
+{
+  "phase": "phase-1",
+  "description": "Source registry for corpus curation and source governance.",
+  "scope_lock_reference": "../phase-0/scope-lock.md",
+  "source_registry_version": "1.0.0",
+  "sources": [
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "source_type": "factsheet",
+      "scheme_name": "HDFC Mid-Cap Fund Direct Growth",
+      "authority_level": "official-approved-project-source",
+      "retrieval_timestamp": "2026-05-05T22:59:00+05:30",
+      "refresh_frequency": "weekly"
+    },
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+      "source_type": "factsheet",
+      "scheme_name": "HDFC Equity Fund Direct Growth",
+      "authority_level": "official-approved-project-source",
+      "retrieval_timestamp": "2026-05-05T22:59:00+05:30",
+      "refresh_frequency": "weekly"
+    },
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+      "source_type": "factsheet",
+      "scheme_name": "HDFC Focused Fund Direct Growth",
+      "authority_level": "official-approved-project-source",
+      "retrieval_timestamp": "2026-05-05T22:59:00+05:30",
+      "refresh_frequency": "weekly"
+    },
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "source_type": "factsheet",
+      "scheme_name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+      "authority_level": "official-approved-project-source",
+      "retrieval_timestamp": "2026-05-05T22:59:00+05:30",
+      "refresh_frequency": "weekly"
+    },
+    {
+      "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "source_type": "factsheet",
+      "scheme_name": "HDFC Large Cap Fund Direct Growth",
+      "authority_level": "official-approved-project-source",
+      "retrieval_timestamp": "2026-05-05T22:59:00+05:30",
+      "refresh_frequency": "weekly"
+    }
+  ]
+}

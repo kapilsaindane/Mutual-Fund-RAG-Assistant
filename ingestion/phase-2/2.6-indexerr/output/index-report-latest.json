@@ -1,0 +1,18 @@
+{
+  "phase": "2.6",
+  "generated_at": "2026-05-08T14:30:11.063317+00:00",
+  "input_embeddings_file": "ingestion/phase-2/2.5-embedder/output/embeddings-latest.json",
+  "vector_db": "chroma",
+  "collection_name": "mutual_fund_faq_phase2",
+  "persist_directory": "ingestion/phase-2/2.6-indexerr/chroma-data",
+  "summary": {
+    "total_input_chunks": 50,
+    "total_indexed_chunks": 50,
+    "embedding_dim": 384
+  },
+  "metadata_filter_validation": {
+    "scheme": true,
+    "doc_type": true,
+    "source_url": true
+  }
+}

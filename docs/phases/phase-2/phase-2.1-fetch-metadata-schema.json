@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Phase 2.1 Fetch Metadata Record",
+  "type": "object",
+  "required": [
+    "url",
+    "fetch_status",
+    "http_status_code",
+    "fetched_at",
+    "response_fingerprint",
+    "content_type",
+    "content_length"
+  ],
+  "properties": {
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "fetch_status": {
+      "type": "string",
+      "enum": ["success", "failure"]
+    },
+    "http_status_code": {
+      "type": "integer",
+      "minimum": 100,
+      "maximum": 599
+    },
+    "fetched_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "response_fingerprint": {
+      "type": "string",
+      "description": "Hash of normalized response body bytes."
+    },
+    "content_type": {
+      "type": "string"
+    },
+    "content_length": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "error_message": {
+      "type": ["string", "null"]
+    }
+  },
+  "additionalProperties": false
+}

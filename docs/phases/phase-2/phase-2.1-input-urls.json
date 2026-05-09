@@ -1,0 +1,13 @@
+{
+  "phase": "2.1",
+  "description": "Approved input URLs for Fetcher subphase.",
+  "source_reference": "../phase-1/source-registry.json",
+  "urls": [
+    "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+    "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+    "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+    "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
+  ],
+  "scope_rule": "exact_url_match_only"
+}
