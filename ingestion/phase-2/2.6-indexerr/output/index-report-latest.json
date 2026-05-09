@@ -1,6 +1,6 @@
 {
   "phase": "2.6",
-  "generated_at": "2026-05-08T14:30:11.063317+00:00",
+  "generated_at": "2026-05-09T05:11:27.414305+00:00",
   "input_embeddings_file": "ingestion/phase-2/2.5-embedder/output/embeddings-latest.json",
   "vector_db": "chroma",
   "collection_name": "mutual_fund_faq_phase2",

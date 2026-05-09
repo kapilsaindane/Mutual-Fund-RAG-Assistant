@@ -1,6 +1,6 @@
 {
   "phase": "2.4",
-  "generated_at": "2026-05-07T16:01:09.972434+00:00",
+  "generated_at": "2026-05-09T05:10:57.406895+00:00",
   "input_cleaned_file": "ingestion/phase-2/2.3-cleaner/output/cleaned-latest.json",
   "chunking_strategy": {
     "target_min_chars": 600,
@@ -34,10 +34,10 @@
   "chunks": [
     {
       "chunk_id": "c-01-002-001",
-      "text": "Equity Mid Cap Very High Risk +23.69 3Y annualised +0.37 % All NAV: 04 May '26 Rs 218.53 Min. for SIP Rs 100 Fund size (AUM) Rs 85,357.92 Cr 0.73% Rating",
+      "text": "Equity Mid Cap Very High Risk +24.70 3Y annualised +0.07 % All NAV: 08 May '26 Rs 223.90 Min. for SIP Rs 100 Fund size (AUM) Rs 85,357.92 Cr 0.76% Rating",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "HDFC Mid Cap Fund Direct Growth",
@@ -50,7 +50,7 @@
       "text": "Name Sector Instruments Assets Max Financial Services Ltd. Financial Equity 4.50% The Federal Bank Ltd. 3.88% AU Small Finance Bank Ltd. Indian Bank 3.65% Ipca Laboratories Ltd. Healthcare 3.38% Balkrishna Industries Ltd. Automobile 3.29% Glenmark Pharmaceuticals Ltd. 3.20% Fortis Healthcare Ltd. 2.93% Vishal Mega Mart Ltd. Services 2.71% Marico Ltd. Consumer Staples 2.59% Cummins India Ltd. Capital Goods 2.37% Hindustan Petroleum Corporation Ltd. Energy 2.18% Mahindra & Mahindra Financial Services Ltd. 2.08% Coforge Ltd. Technology 2.04% Aurobindo Pharma Ltd. Apollo Tyres Ltd. 2.02% Jindal Steel Ltd. Metals & Mining 1.92% Persistent Systems Ltd. 1.91% Union Bank of India 1.86% Alkem Laboratories Ltd. 1.84% Tata Communications Ltd. Communication 1.76% Delhivery Ltd. 1.54% Dabur India Ltd. 1.48% AIA Engineering Ltd. 1.42% Mphasis Ltd. 1.37% Karur Vysya Bank Ltd. 1.35% Bharat Forge Ltd.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Holdings ( 78 )",
@@ -63,7 +63,7 @@
       "text": "nication 1.76% Delhivery Ltd. 1.54% Dabur India Ltd. 1.48% AIA Engineering Ltd. 1.42% Mphasis Ltd. 1.37% Karur Vysya Bank Ltd. 1.35% Bharat Forge Ltd. 1.26% Gland Pharma Ltd. Bosch Ltd. 1.25% United Spirits Ltd. 1.23% PB Fintech Ltd. 1.19% Coromandel International Ltd. Chemicals 1.10% Star Health and Allied Insurance Company Ltd. Insurance Eternal Ltd. 1.07% The Indian Hotels Company Ltd. 0.94% Nippon Life India Asset Management Ltd. 0.93% Indraprastha Gas Ltd. 0.87% Redington Ltd. 0.83% Timken India Ltd. Godrej Consumer Products Ltd. Indusind Bank Ltd. 0.81% Escorts Kubota Ltd. Crompton Greaves Consumer Electricals Ltd. Consumer Discretionary 0.75% Hexaware Technologies Ltd. 0.74% Supreme Industries Ltd. 0.73% City Union Bank Ltd. 0.72% ACC Ltd. Construction 0.70% Sundram Fasteners Ltd. 0.63% Dixon Technologies (India) Ltd. 0.58% SKF India (Industrial) Ltd.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Holdings ( 78 )",
@@ -76,7 +76,7 @@
       "text": "City Union Bank Ltd. 0.72% ACC Ltd. Construction 0.70% Sundram Fasteners Ltd. 0.63% Dixon Technologies (India) Ltd. 0.58% SKF India (Industrial) Ltd. 0.57% Sona BLW Precision Forgings Ltd. KEC International Ltd. 0.54% Gujarat Fluorochemicals Ltd. 0.49% Vardhman Textiles Ltd. Textiles 0.45% SKF India Ltd. 0.39% Vesuvius India Ltd. 0.37% Cholamandalam Financial Holdings Ltd. 0.36% Aarti Industries Ltd. Ceat Ltd. 0.35% Emami Ltd. 0.34% Arvind Ltd. 0.32% Symphony Ltd. 0.30% Oracle Financial Services Software Ltd. 0.27% Greenlam Industries Ltd. 0.26% ICICI Lombard General Insurance Company Ltd. Bharti Hexacom Ltd. 0.24% Navneet Education Ltd. 0.23% Billionbrains Garage Ventures Ltd. 0.18% Colgate-Palmolive (India) Ltd. 0.17% LG Electronics India Ltd. Five-Star Business Finance Ltd. 0.16% KNR Constructions Ltd. 0.14% Aster DM Healthcare Ltd. 0.13% Greenply Industries Ltd.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Holdings ( 78 )",
@@ -89,7 +89,7 @@
       "text": "% LG Electronics India Ltd. Five-Star Business Finance Ltd. 0.16% KNR Constructions Ltd. 0.14% Aster DM Healthcare Ltd. 0.13% Greenply Industries Ltd. 0.11% Dhanuka Agritech Ltd. Greenpanel Industries Ltd. 0.09% Jagran Prakashan Ltd. 0.05% ICICI Prudential Asset Management Company Ltd. 0.02% See All",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Holdings ( 78 )",
@@ -102,7 +102,7 @@
       "text": "Average of the yearly returns of a mutual fund over a given period. The total return of a mutual fund over a given period.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -112,10 +112,10 @@
     },
     {
       "chunk_id": "c-01-007-001",
-      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +23.7% +22.2% +19.1% +20.2% Category average ( Equity Mid Cap ) +21.6% +21.5% +16.0% Rank ( Equity Mid Cap )",
+      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +24.7% +22.5% +19.4% +20.4% Category average ( Equity Mid Cap ) +21.6% +21.5% +16.0% Rank ( Equity Mid Cap )",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Returns and rankings",
@@ -128,7 +128,7 @@
       "text": "A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses. A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund. A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment. A form of tax payable for the purchase or sale of an asset or security.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -141,7 +141,7 @@
       "text": "Exit load of 1% if redeemed within 1 year. from July 1st 2020 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%. Check past data",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Exit load, stamp duty and tax",
@@ -151,10 +151,10 @@
     },
     {
       "chunk_id": "c-01-011-001",
-      "text": "Name Fund Size(Cr) WhiteOak Capital Mid Cap Fund Direct Growth +18.06% +27.23% 4,490.64 Edelweiss Mid Cap Direct Plan Growth +13.58% +26.05% 13,553.62 Nippon India Growth Mid Cap Fund Direct Growth +14.65% +25.95% 39,676.13 Sundaram Mid Cap Fund Direct Growth +13.78% +24.96% 11,898.19 HDFC Mid Cap Fund Direct Growth +12.00% +23.69% 85,357.92",
+      "text": "Name Fund Size(Cr) WhiteOak Capital Mid Cap Fund Direct Growth +21.78% +28.45% 4,490.64 Edelweiss Mid Cap Direct Plan Growth +17.56% +27.27% 13,553.62 Nippon India Growth Mid Cap Fund Direct Growth +18.58% +26.90% 39,676.13 Sundaram Mid Cap Fund Direct Growth +17.89% +25.98% 11,898.19 HDFC Mid Cap Fund Direct Growth +15.40% +24.70% 85,357.92",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Compare similar funds",
@@ -167,7 +167,7 @@
       "text": "Chirag Setalvad Jan 2013 - Present View details Education Mr. Setalvad is a B. Sc and MBA from University of North Carolina. Experience Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V. Also manages these schemes Dhruv Muchhal Jun 2023 - Present Mr. Dhruv has done B.Com, CA and CFA Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund management",
@@ -177,10 +177,10 @@
     },
     {
       "chunk_id": "c-01-013-001",
-      "text": "HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 04 May 2026 is Rs 218.53. The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to Rs 100. Minimum Lumpsum Investment is Rs 100. Exit load of 1% if redeemed within 1 year. ; The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies. Fund benchmark NIFTY Midcap 150 Total Return Index Scheme Information Document(SID)",
+      "text": "HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 08 May 2026 is Rs 223.90. The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to Rs 100. Minimum Lumpsum Investment is Rs 100. Exit load of 1% if redeemed within 1 year. ; The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies. Fund benchmark NIFTY Midcap 150 Total Return Index Scheme Information Document(SID)",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "About HDFC Mid Cap Fund Direct Growth",
@@ -190,10 +190,10 @@
     },
     {
       "chunk_id": "c-01-014-001",
-      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC Mid Cap Fund Direct Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.5.9 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
+      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC Mid Cap Fund Direct Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.6.1 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.172818+00:00",
+        "source_date": "2026-05-09T05:10:50.052740+00:00",
         "scheme": "Hdfc Mid Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund house",
@@ -203,10 +203,10 @@
     },
     {
       "chunk_id": "c-02-002-001",
-      "text": "Equity Flexi Cap Very High Risk +19.38 3Y annualised +0.58 % All NAV: 04 May '26 Rs 2,149.50 Min. for SIP Rs 100 Fund size (AUM) Rs 91,334.91 Cr 0.67% Rating",
+      "text": "Equity Flexi Cap Very High Risk +19.62 3Y annualised -0.75 % All NAV: 08 May '26 Rs 2,163.72 Min. for SIP Rs 100 Fund size (AUM) Rs 91,334.91 Cr 0.86% Rating",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "HDFC Flexi Cap Direct Plan Growth",
@@ -219,7 +219,7 @@
       "text": "Average of the yearly returns of a mutual fund over a given period. The total return of a mutual fund over a given period.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -229,10 +229,10 @@
     },
     {
       "chunk_id": "c-02-007-001",
-      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +19.4% +20.6% +17.5% +16.0% Category average ( Equity Flexi Cap ) +15.6% +13.5% Rank ( Equity Flexi Cap )",
+      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +19.6% +20.0% +17.5% +16.0% Category average ( Equity Flexi Cap ) +15.6% +13.5% Rank ( Equity Flexi Cap )",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Returns and rankings",
@@ -245,7 +245,7 @@
       "text": "A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses. A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund. A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment. A form of tax payable for the purchase or sale of an asset or security.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -258,7 +258,7 @@
       "text": "Exit load of 1% if redeemed within 1 year from July 1st 2020 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%. Check past data",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Exit load, stamp duty and tax",
@@ -268,10 +268,10 @@
     },
     {
       "chunk_id": "c-02-011-001",
-      "text": "Name Fund Size(Cr) JM Flexicap Fund Direct Plan Growth +0.90% +19.70% 4,504.47 HDFC Flexi Cap Direct Plan Growth +2.73% +19.38% 91,334.91 HSBC Flexi Cap Fund Direct Growth +9.17% +18.97% 4,724.03 Parag Parikh Flexi Cap Fund Direct Growth +3.70% +17.60% 1,28,966.48 Franklin India Flexi Cap Fund Direct Growth +0.17% +16.83% 17,535.63",
+      "text": "Name Fund Size(Cr) JM Flexicap Fund Direct Plan Growth +4.53% +20.48% 4,504.47 HSBC Flexi Cap Fund Direct Growth +12.18% +19.75% 5,405.12 HDFC Flexi Cap Direct Plan Growth +4.20% +19.62% 91,334.91 Parag Parikh Flexi Cap Fund Direct Growth +4.27% +17.99% 1,28,966.48 Franklin India Flexi Cap Fund Direct Growth +1.39% +17.02% 17,535.63",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Compare similar funds",
@@ -284,7 +284,7 @@
       "text": "Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes Amit Ganatra Feb 2026 - Present Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR. Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund management",
@@ -294,10 +294,10 @@
     },
     {
       "chunk_id": "c-02-013-001",
-      "text": "HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 04 May 2026 is Rs 2,149.50. The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to Rs 100. Minimum Lumpsum Investment is Rs 100. Exit load of 1% if redeemed within 1 year ; The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments. Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)",
+      "text": "HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 08 May 2026 is Rs 2,163.72. The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to Rs 100. Minimum Lumpsum Investment is Rs 100. Exit load of 1% if redeemed within 1 year ; The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments. Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "About HDFC Flexi Cap Direct Plan Growth",
@@ -307,10 +307,10 @@
     },
     {
       "chunk_id": "c-02-014-001",
-      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Deutsche Bank Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC Flexi Cap Direct Plan Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.5.9 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
+      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Deutsche Bank Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC Flexi Cap Direct Plan Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.6.1 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.486970+00:00",
+        "source_date": "2026-05-09T05:10:50.851674+00:00",
         "scheme": "Hdfc Equity Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund house",
@@ -320,10 +320,10 @@
     },
     {
       "chunk_id": "c-03-002-001",
-      "text": "Equity Flexi Cap Very High Risk +18.96 3Y annualised +0.27 % All NAV: 04 May '26 Rs 254.87 Min. for SIP Rs 100 Fund size (AUM) Rs 24,169.51 Cr 0.68% Rating",
+      "text": "Equity Flexi Cap Very High Risk +19.32 3Y annualised -0.86 % All NAV: 08 May '26 Rs 257.36 Min. for SIP Rs 100 Fund size (AUM) Rs 24,169.51 Cr 0.69% Rating",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "HDFC Focused Fund Direct Growth",
@@ -336,7 +336,7 @@
       "text": "Average of the yearly returns of a mutual fund over a given period. The total return of a mutual fund over a given period.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -346,10 +346,10 @@
     },
     {
       "chunk_id": "c-03-007-001",
-      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +19.0% +21.9% +16.1% +14.8% Category average ( Equity Flexi Cap ) +16.0% +15.6% +13.5% Rank ( Equity Flexi Cap )",
+      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +19.3% +21.6% +16.2% +14.9% Category average ( Equity Flexi Cap ) +16.0% +15.6% +13.5% Rank ( Equity Flexi Cap )",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Returns and rankings",
@@ -362,7 +362,7 @@
       "text": "A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses. A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund. A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment. A form of tax payable for the purchase or sale of an asset or security.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -375,7 +375,7 @@
       "text": "08 May 2015 Exit load of 1% if redeemed within 1 year 01 Dec 2014 Exit load of 3% if redeemed within 12 months, 2% if redeemed after 12 months but within 24 months and 1% if redeemed after 24 months but within 36 months from the date of allotment 01 Oct 2014 Exit load of 1% if redeemed within 18 months 01 Jan 2013",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Exit Load",
@@ -388,7 +388,7 @@
       "text": "Exit load of 1% if redeemed within 1 year from July 1st 2020 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%. Check past data",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Exit load, stamp duty and tax",
@@ -398,10 +398,10 @@
     },
     {
       "chunk_id": "c-03-011-001",
-      "text": "Name Fund Size(Cr) JM Flexicap Fund Direct Plan Growth +0.90% +19.70% 4,504.47 HDFC Flexi Cap Direct Plan Growth +2.73% +19.38% 91,334.91 HSBC Flexi Cap Fund Direct Growth +9.17% +18.97% 4,724.03 Parag Parikh Flexi Cap Fund Direct Growth +3.70% +17.60% 1,28,966.48 Franklin India Flexi Cap Fund Direct Growth +0.17% +16.83% 17,535.63",
+      "text": "Name Fund Size(Cr) JM Flexicap Fund Direct Plan Growth +4.53% +20.48% 4,504.47 HSBC Flexi Cap Fund Direct Growth +12.18% +19.75% 5,405.12 HDFC Flexi Cap Direct Plan Growth +4.20% +19.62% 91,334.91 Parag Parikh Flexi Cap Fund Direct Growth +4.27% +17.99% 1,28,966.48 Franklin India Flexi Cap Fund Direct Growth +1.39% +17.02% 17,535.63",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Compare similar funds",
@@ -414,7 +414,7 @@
       "text": "Dhruv Muchhal Jun 2023 - Present View details Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells Also manages these schemes Amit Ganatra Feb 2026 - Present Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR. Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund management",
@@ -424,10 +424,10 @@
     },
     {
       "chunk_id": "c-03-013-001",
-      "text": "HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 04 May 2026 is Rs 254.87. The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to Rs 100. Minimum Lumpsum Investment is Rs 100. Exit load of 1% if redeemed within 1 year ; The scheme seeks to generate long term capital appreciation/income by investing in equity & equity related instruments of up to 30 companies. Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)",
+      "text": "HDFC Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 08 May 2026 is Rs 257.36. The HDFC Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to Rs 100. Minimum Lumpsum Investment is Rs 100. Exit load of 1% if redeemed within 1 year ; The scheme seeks to generate long term capital appreciation/income by investing in equity & equity related instruments of up to 30 companies. Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "About HDFC Focused Fund Direct Growth",
@@ -437,10 +437,10 @@
     },
     {
       "chunk_id": "c-03-014-001",
-      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC Focused Fund Direct Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.5.9 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
+      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC Focused Fund Direct Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.6.1 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:50.717562+00:00",
+        "source_date": "2026-05-09T05:10:51.866278+00:00",
         "scheme": "Hdfc Focused Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund house",
@@ -450,10 +450,10 @@
     },
     {
       "chunk_id": "c-04-002-001",
-      "text": "ELSS - 3Y Lock-in Equity ELSS Very High Risk +17.93 3Y annualised +0.52 % All NAV: 04 May '26 Rs 1,455.83 Min. for SIP Rs 500 Fund size (AUM) Rs 14,615.19 Cr 1.11% Rating",
+      "text": "ELSS - 3Y Lock-in Equity ELSS Very High Risk +18.12 3Y annualised -0.69 % All NAV: 08 May '26 Rs 1,464.28 Min. for SIP Rs 500 Fund size (AUM) Rs 14,615.19 Cr 1.10% Rating",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "source_date": "2026-05-05T17:38:51.092831+00:00",
+        "source_date": "2026-05-09T05:10:53.017162+00:00",
         "scheme": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
         "doc_type": "html_fund_page",
         "section_heading": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
@@ -466,7 +466,7 @@
       "text": "Average of the yearly returns of a mutual fund over a given period. The total return of a mutual fund over a given period.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "source_date": "2026-05-05T17:38:51.092831+00:00",
+        "source_date": "2026-05-09T05:10:53.017162+00:00",
         "scheme": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -476,10 +476,10 @@
     },
     {
       "chunk_id": "c-04-007-001",
-      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +17.9% +19.0% +15.0% +14.2% Category average ( Equity ELSS ) +16.4% +16.5% +14.0% Rank ( Equity ELSS )",
+      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +18.1% +18.6% +15.1% +14.3% Category average ( Equity ELSS ) +16.4% +16.5% +14.0% Rank ( Equity ELSS )",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "source_date": "2026-05-05T17:38:51.092831+00:00",
+        "source_date": "2026-05-09T05:10:53.017162+00:00",
         "scheme": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Returns and rankings",
@@ -492,7 +492,7 @@
       "text": "A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses. A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund. A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment. A form of tax payable for the purchase or sale of an asset or security.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "source_date": "2026-05-05T17:38:51.092831+00:00",
+        "source_date": "2026-05-09T05:10:53.017162+00:00",
         "scheme": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -502,10 +502,10 @@
     },
     {
       "chunk_id": "c-04-011-001",
-      "text": "Name Fund Size(Cr) Motilal Oswal ELSS Tax Saver Fund Direct Growth +17.29% +25.65% 3,968.68 SBI ELSS Tax Saver Fund Direct Growth +3.43% +21.16% 28,441.43 WhiteOak Capital ELSS Tax Saver Fund Direct Growth +5.06% +20.11% 402.93 HDFC ELSS Tax Saver Fund Direct Plan Growth -0.61% +17.93% 14,615.19 Parag Parikh ELSS Tax Saver Fund Direct Growth -2.49% +13.80% 5,260.64",
+      "text": "Name Fund Size(Cr) Motilal Oswal ELSS Tax Saver Fund Direct Growth +22.67% +26.98% 4,658.52 SBI ELSS Tax Saver Fund Direct Growth +5.45% +21.30% 28,441.43 WhiteOak Capital ELSS Tax Saver Fund Direct Growth +7.37% +20.79% 402.93 HDFC ELSS Tax Saver Fund Direct Plan Growth +0.65% +18.12% 14,615.19 Parag Parikh ELSS Tax Saver Fund Direct Growth -1.65% +13.85% 5,260.64",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "source_date": "2026-05-05T17:38:51.092831+00:00",
+        "source_date": "2026-05-09T05:10:53.017162+00:00",
         "scheme": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Compare similar funds",
@@ -518,7 +518,7 @@
       "text": "Amar Kalkundrikar Dec 2025 - Present View details Education Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School. Experience Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF. Also manages these schemes Dhruv Muchhal Jun 2023 - Present Mr. Dhruv has done B.Com, CA and CFA Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "source_date": "2026-05-05T17:38:51.092831+00:00",
+        "source_date": "2026-05-09T05:10:53.017162+00:00",
         "scheme": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund management",
@@ -528,10 +528,10 @@
     },
     {
       "chunk_id": "c-04-013-001",
-      "text": "HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 04 May 2026 is Rs 1,455.83. The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to Rs 500. Minimum Lumpsum Investment is Rs 500. ; The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments. Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)",
+      "text": "HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 08 May 2026 is Rs 1,464.28. The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to Rs 500. Minimum Lumpsum Investment is Rs 500. ; The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments. Fund benchmark NIFTY 500 Total Return Index Scheme Information Document(SID)",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "source_date": "2026-05-05T17:38:51.092831+00:00",
+        "source_date": "2026-05-09T05:10:53.017162+00:00",
         "scheme": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
         "doc_type": "html_fund_page",
         "section_heading": "About HDFC ELSS Tax Saver Fund Direct Plan Growth",
@@ -541,10 +541,10 @@
     },
     {
       "chunk_id": "c-04-014-001",
-      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Deutsche Bank Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC ELSS Tax Saver Fund Direct Plan Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.5.9 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
+      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian Deutsche Bank Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC ELSS Tax Saver Fund Direct Plan Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.6.1 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "source_date": "2026-05-05T17:38:51.092831+00:00",
+        "source_date": "2026-05-09T05:10:53.017162+00:00",
         "scheme": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund house",
@@ -554,10 +554,10 @@
     },
     {
       "chunk_id": "c-05-002-001",
-      "text": "Equity Large Cap Very High Risk +13.01 3Y annualised +0.51 % All NAV: 04 May '26 Rs 1,192.37 Min. for SIP Rs 100 Fund size (AUM) Rs 35,458.50 Cr 1.04% Rating",
+      "text": "Equity Large Cap Very High Risk +13.44 3Y annualised -0.28 % All NAV: 08 May '26 Rs 1,205.37 Min. for SIP Rs 100 Fund size (AUM) Rs 35,458.50 Cr 0.98% Rating",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "HDFC Large Cap Fund Direct Growth",
@@ -570,7 +570,7 @@
       "text": "Average of the yearly returns of a mutual fund over a given period. The total return of a mutual fund over a given period.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -580,10 +580,10 @@
     },
     {
       "chunk_id": "c-05-007-001",
-      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +13.0% +14.8% +14.2% +13.2% Category average ( Equity Large Cap ) +15.1% +15.0% Rank ( Equity Large Cap )",
+      "text": "Annualised returns Absolute returns Name 10Y All Fund returns +13.4% +14.4% +14.2% +13.2% Category average ( Equity Large Cap ) +15.1% +15.0% Rank ( Equity Large Cap )",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Returns and rankings",
@@ -596,7 +596,7 @@
       "text": "A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses. A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund. A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment. A form of tax payable for the purchase or sale of an asset or security.",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Understand terms",
@@ -609,7 +609,7 @@
       "text": "08 May 2015 Exit load of 1% if redeemed within 1 year 16 Feb 2015 Exit load of 1% if redeemed within 18 months 01 Jan 2013",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Exit Load",
@@ -622,7 +622,7 @@
       "text": "Exit load of 1% if redeemed within 1 year from July 1st 2020 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%. Check past data",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Exit load, stamp duty and tax",
@@ -632,10 +632,10 @@
     },
     {
       "chunk_id": "c-05-011-001",
-      "text": "Name Fund Size(Cr) Nippon India Large Cap Fund Direct Growth +4.31% +16.86% 46,520.53 Invesco India Largecap Fund Direct Growth +4.16% +16.83% 1,536.87 WhiteOak Capital Large Cap Fund Direct Growth +3.29% +16.52% 1,045.06 ICICI Prudential Large Cap Fund Direct Growth +1.23% +15.84% 69,947.55 DSP Large Cap Fund Direct Growth -1.55% +15.67% 6,619.60",
+      "text": "Name Fund Size(Cr) Invesco India Largecap Fund Direct Growth +6.37% +17.52% 1,536.88 Nippon India Large Cap Fund Direct Growth +5.62% +16.80% 46,520.53 WhiteOak Capital Large Cap Fund Direct Growth +5.13% 1,045.06 DSP Large Cap Fund Direct Growth -0.04% +15.89% 6,619.60 ICICI Prudential Large Cap Fund Direct Growth +2.61% 69,947.55",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Compare similar funds",
@@ -648,7 +648,7 @@
       "text": "Rahul Baijal Jul 2022 - Present View details Education Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering Experience Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank. Also manages these schemes Dhruv Muchhal Jun 2023 - Present Mr. Dhruv has done B.Com, CA and CFA Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund management",
@@ -658,10 +658,10 @@
     },
     {
       "chunk_id": "c-05-013-001",
-      "text": "HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 04 May 2026 is Rs 1,192.37. The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to Rs 100. Minimum Lumpsum Investment is Rs 100. Exit load of 1% if redeemed within 1 year ; The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies. Fund benchmark NIFTY 100 Total Return Index Scheme Information Document(SID)",
+      "text": "HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Rs 8,54,364 Cr and the Latest NAV as of 08 May 2026 is Rs 1,205.37. The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to Rs 100. Minimum Lumpsum Investment is Rs 100. Exit load of 1% if redeemed within 1 year ; The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies. Fund benchmark NIFTY 100 Total Return Index Scheme Information Document(SID)",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "About HDFC Large Cap Fund Direct Growth",
@@ -671,10 +671,10 @@
     },
     {
       "chunk_id": "c-05-014-001",
-      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian HDFC Bank Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC Large Cap Fund Direct Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.5.9 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
+      "text": "HDFC Mutual Fund Rank (total assets) #2 in India Total AUM Rs 8,54,364.43 Cr Date of Incorporation 10 Dec 1999 Phone 022 \u2013 66316333 E-mail [email protected] Website Launch Date Address \"HDFC House\", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020 Custodian HDFC Bank Registrar & Transfer Agent Cams Email 7th Floor, Tower II, Rayala Towers, 158, Anna Salai, Home Mutual Funds HDFC Large Cap Fund Direct Growth Vaishnavi Tech Park, South Tower, 3rd Floor Sarjapur Main Road, Bellandur, Bengaluru \u2013 560103 Karnataka Contact Us Download the App GROWW PRODUCTS \u00a9 2016- 2026 Groww. All rights reserved. Version: 7.6.1 Share Market Indices F&O ETFs Funds By Groww Calculators IPO Miscellaneous Show More Others: Mutual Funds : Stocks :",
       "metadata": {
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "source_date": "2026-05-05T17:38:51.417171+00:00",
+        "source_date": "2026-05-09T05:10:53.454842+00:00",
         "scheme": "Hdfc Large Cap Fund Direct Growth",
         "doc_type": "html_fund_page",
         "section_heading": "Fund house",

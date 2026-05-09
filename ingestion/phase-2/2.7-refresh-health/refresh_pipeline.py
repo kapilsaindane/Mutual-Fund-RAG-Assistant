@@ -243,7 +243,7 @@ def main():
     
     # Show phase details
     for phase, result in report["phase_results"].items():
-        status_icon = "✅" if result["status"] == "success" else "❌"
+        status_icon = "[OK]" if result["status"] == "success" else "[FAIL]"
         print(f"{status_icon} {phase}: {result['status']}")
     
     # Exit with error code if pipeline failed

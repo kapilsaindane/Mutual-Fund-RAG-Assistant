@@ -393,14 +393,14 @@ def main():
         for gate in results["failed_gates"]:
             result = results["gate_results"][gate]
             issues = result.get("issues", [])
-            print(f"  ❌ {gate}: {', '.join(issues)}")
+            print(f"  [FAIL] {gate}: {', '.join(issues)}")
     
     if results["warning_gates"]:
         print(f"\nWarning Gates:")
         for gate in results["warning_gates"]:
             result = results["gate_results"][gate]
             issues = result.get("issues", [])
-            print(f"  ⚠️  {gate}: {', '.join(issues)}")
+            print(f"  [WARN] {gate}: {', '.join(issues)}")
     
     print(f"\nDetailed report saved to: {QUALITY_REPORT_PATH}")
     
