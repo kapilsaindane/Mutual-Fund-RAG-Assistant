@@ -2,8 +2,8 @@ name: Data Refresh Pipeline
 
 on:
   schedule:
-    # Run daily at 2 AM UTC (7:30 AM IST)
-    - cron: '0 2 * * *'
+    # Run daily at 4:30 AM UTC (10:00 AM IST)
+    - cron: '30 4 * * *'
   workflow_dispatch:
     inputs:
       force_refresh:
