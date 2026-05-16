@@ -3,7 +3,6 @@
 # Web Framework
 Flask==2.3.3
 Flask-CORS==4.0.0
-gunicorn==21.2.0
 
 # Environment Variables
 python-dotenv==1.0.0
