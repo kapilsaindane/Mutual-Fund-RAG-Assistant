@@ -40,10 +40,7 @@ class RefusalComposer:
                 "I can share historical data and current facts but cannot make predictions about future performance."
             ],
             'unsupported': [
-                "I can only answer questions about the specific HDFC mutual funds in my knowledge base.",
-                "My knowledge is limited to the 5 HDFC funds specified in the corpus.",
-                "I don't have information about other fund houses or international funds.",
-                "For information about other mutual funds, please visit AMFI or the respective fund house websites."
+                "This assistant supports only factual, source-backed mutual fund queries.\nInvestment advice, recommendations, comparisons, predictions, or unrelated queries are not supported."
             ]
         }
         

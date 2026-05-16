@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: mutual-fund-rag-backend
+    env: python
+    buildCommand: pip install -r phase-6/backend/requirements.txt
+    startCommand: gunicorn "phase-6.backend.app:create_app()" -w 4 -b 0.0.0.0:$PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.0
+      - key: PYTHONPATH
+        value: /opt/render/project/src
+      - key: ALLOWED_ORIGINS
+        value: "*"
+      - key: USE_GROQ
+        value: "true"
+      - key: GROQ_API_KEY
+        sync: false

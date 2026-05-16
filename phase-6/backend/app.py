@@ -38,7 +38,11 @@ def create_app(config=None):
     )
     
     # Enable CORS for frontend
-    CORS(app, origins=["http://localhost:3000", "http://localhost:8080"])
+    allowed_origins = os.environ.get('ALLOWED_ORIGINS', '*')
+    if allowed_origins == '*':
+        CORS(app, resources={r"/*": {"origins": "*"}})
+    else:
+        CORS(app, origins=[origin.strip() for origin in allowed_origins.split(',')])
     
     # Initialize orchestrator
     try:
