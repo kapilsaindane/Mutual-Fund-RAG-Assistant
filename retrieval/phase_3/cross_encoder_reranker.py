@@ -15,7 +15,7 @@ class CrossEncoderReranker:
     Uses BAAI/bge-reranker-base by default
     """
     
-    def __init__(self, model_name: str = "BAAI/bge-reranker-base"):
+    def __init__(self, model_name: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"):
         if CrossEncoder is None:
             raise ImportError("sentence-transformers is required for cross-encoder reranking")
         
