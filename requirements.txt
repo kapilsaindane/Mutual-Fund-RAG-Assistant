@@ -1,0 +1,24 @@
+# Phase 6 Backend Requirements
+
+# Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+gunicorn==21.2.0
+
+# RAG & Embeddings
+chromadb
+sentence-transformers
+rank-bm25
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Logging and Utilities
+colorlog==6.7.0
+numpy
+
+# Development (optional)
+pytest==7.4.2
+pytest-flask==1.2.0
+black==23.7.0
+flake8==6.0.0
