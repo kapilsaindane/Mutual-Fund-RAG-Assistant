@@ -9,7 +9,7 @@ from flask_cors import CORS
 
 # Add retrieval system to path
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "retrieval"))
-sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "retrieval" / "phase-5"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "retrieval" / "phase_5"))
 
 from phase_5.orchestrator import Orchestrator
 

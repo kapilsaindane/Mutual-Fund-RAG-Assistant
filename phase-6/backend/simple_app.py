@@ -8,9 +8,10 @@ from flask_cors import CORS
 
 # Add retrieval system to path
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "retrieval"))
-sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "retrieval" / "phase-5"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "retrieval" / "phase_5"))
 
-# Simple mock orchestrator for testing
+from phase_5.orchestrator import Orchestrator
+
 class MockOrchestrator:
     def __init__(self):
         self.use_groq = os.environ.get('USE_GROQ', '').lower() == 'true'
