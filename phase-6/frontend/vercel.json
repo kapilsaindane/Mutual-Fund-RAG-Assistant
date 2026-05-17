@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://<YOUR-RENDER-BACKEND-URL>/api/$1"
+      "destination": "https://groww-rag-mutualfund.up.railway.app/api/$1"
     }
   ]
 }
