@@ -2,9 +2,7 @@
 
 class MutualFundAssistant {
     constructor() {
-        // Detect environment based on hostname
-        const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
-        this.apiBaseUrl = isLocalhost ? 'http://localhost:5000/api' : '/api';
+        this.apiBaseUrl = 'http://localhost:5000/api';
         this.uiData = null;
         this.isProcessing = false;
         
